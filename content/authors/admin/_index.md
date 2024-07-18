@@ -55,12 +55,12 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://arxiv.org/abs/2305.15139'
-    button:
-      text: Noam Zeilberger
-      url: https://noamz.org
-    button: 
-      text: Paul Levy
-      url: https://www.cs.bham.ac.uk/~pbl/
+#    button:
+#      text: Noam Zeilberger
+#      url: https://noamz.org
+#    button: 
+#      text: Paul Levy
+#      url: https://www.cs.bham.ac.uk/~pbl/
     
   - area: Master in Mathematical Logic and Foundations of Computer Science
     institution: Université Paris Diderot
