@@ -90,3 +90,4 @@ languages:
 ## About Me
 
 I am a postdoc in the [Qbricks](https://qbricks.github.io/) team working on formal verification of quantum programming. Prior to that I did a PhD in theoretical computer science at the University of Birmingham under the supervision of [Noam Zeilberger](https://noamz.org) and [Paul Levy](https://www.cs.bham.ac.uk/~pbl/). My main research interests involve category theory, logic, and their applications, in particular to quantum computing.
+---
