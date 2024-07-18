@@ -48,34 +48,47 @@ interests:
 education:
   - area: PhD Theoretical Computer Science
     institution: University of Birmingham
-    date_start: 2018
-    date_end: 2023
+    date_start: 01 Oct 2018
+    date_end: 17 Mar 2023
     summary: |
-      PhD thesis on Bifibrations of polycategories and classical linear logic. Supervised by [Noam Zeilberger](https://noamz.org/) and [Paul Levy](https://www.cs.bham.ac.uk/~pbl/).
+      PhD thesis on Bifibrations of polycategories and classical linear logic. Supervised by Noam Zeilberger and Paul Levy.
     button:
       text: 'Read Thesis'
       url: 'https://arxiv.org/abs/2305.15139'
+    button:
+      text: Noam Zeilberger
+      url: https://noamz.org
+    button: 
+      text: Paul Levy
+      url: https://www.cs.bham.ac.uk/~pbl/
+    
   - area: Master in Mathematical Logic and Foundations of Computer Science
     institution: Université Paris Diderot
-    date_start: 2014
-    date_end: 2016
+    date_start: 01 Sep 2014
+    date_end: 30 Jun 2016
     summary: |
-      [LMFI](https://master.math.u-paris.fr/annee/m2-lmfi/)
+
+    button:
+      text: LMFI
+      url: https://master.math.u-paris.fr/annee/m2-lmfi/
 work:
   - position: Postdoctoral researcher on formal methods for quantum computing
     company_name: CEA-List
     company_url: 'https://list.cea.fr/en/'
     company_logo: ''
-    date_start: 2023
+    date_start: 01 Jun 2023
     date_end: ''
     summary: |2-
-      Postdoc in the [Qbricks](https://qbricks.github.io/) team
+      Postdoc in the Qbricks team
+    button: 
+      text: QBricks
+      url: https://qbricks.github.io/
   - position: Teaching Assistant
     company_name: University of Birmingham
     company_url: ''
     company_logo: ''
-    date_start: 2018
-    date_end: 2022
+    date_start: 01 Oct 2018
+    date_end: 30 Jun 2022
     summary: |
       Compilers and Programming Language; Project; System Programming in C/C++; Network Security; Theory of Computation
 
