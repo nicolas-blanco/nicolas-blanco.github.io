@@ -13,11 +13,11 @@ author_notes:
   - ''
   - ''
 
-date: '2020'
-doi: '10.1016/j.entcs.2020.09.003'
+date: '01 Oct 2020'
+doi: 'https://doi.org/10.1016/j.entcs.2020.09.003'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '18 Jul 2024'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,8 +25,8 @@ publishDate: ''
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Electronic Notes in Theoretical Computer Science*
-publication_short: In *ENTCS*
+publication: Proceedings of the 36th International Conference on Mathematical Foundations of Programming Semantics In *Electronic Notes in Theoretical Computer Science*
+publication_short: MFPS2020 In *ENTCS*
 
 abstract: The main goal of this article is to expose and relate different ways of interpreting the multiplicative fragment of classical linear logic in polycategories. Polycategories are known to give rise to models of classical linear logic in so-called representable polycategories with duals, which ask for the existence of various polymaps satisfying the different universal properties needed to define tensor, par, and negation. We begin by explaining how these different universal properties can all be seen as instances of a single notion of universality of a polymap parameterised by an input or output object, which also generalises the classical notion of universal multimap in a multicategory. We then proceed to introduce a definition of in-cartesian and out-cartesian polymaps relative to a refinement system (= strict functor) of polycategories, in such a way that universal polymaps can be understood as a special case. In particular, we obtain that a polycategory is a representable polycategory with duals if and only if it is bifibred over the terminal polycategory . Finally, we present a Grothendieck correspondence between bifibrations of polycategories and pseudofunctors into **MAdj**, the (weak) 2-polycategory of multivariable adjunctions. When restricted to bifibrations over **1** we get back the correspondence between *-autonomous categories and Frobenius pseudomonoids in **MAdj** that was recently observed by Shulman.
 

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 18-07-2024
+date: 18 Jul 2024
 type: landing
 
 design:
@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Lately, I have been involved in the development of Qbricks, an open-source environment for automated formal verification of quantum programs. I am studying its specification langage, relying on parametrised path-sums, as well as on its rewriting theory.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        During my PhD, I worked on categorical models of logic. More particularly, I've studied bifibrations of polycategories that allow to lift models of multiplicative linear logic to more refined ones.  
         
-        Please reach out to collaborate 😃
+        Some of my interests include generalised multicategories, polycategories, virtual double categories, fibrations, polyactegories, models of quantum mechanics. Feel free to reach out  😃
     design:
       columns: '1'
   - block: collection
