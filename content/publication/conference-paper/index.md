@@ -1,23 +1,23 @@
 ---
-title: 'An example conference paper'
+title: 'Bifibrations of polycategories and classical linear logic'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Noam Zeilberger
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: ''
+doi: '10.1016/j.entcs.2020.09.003'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,16 +25,20 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Electronic Notes in Theoretical Computer Science*
+publication_short: In *ENTCS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The main goal of this article is to expose and relate different ways of interpreting the multiplicative fragment of classical linear logic in polycategories. Polycategories are known to give rise to models of classical linear logic in so-called representable polycategories with duals, which ask for the existence of various polymaps satisfying the different universal properties needed to define tensor, par, and negation. We begin by explaining how these different universal properties can all be seen as instances of a single notion of universality of a polymap parameterised by an input or output object, which also generalises the classical notion of universal multimap in a multicategory. We then proceed to introduce a definition of in-cartesian and out-cartesian polymaps relative to a refinement system (= strict functor) of polycategories, in such a way that universal polymaps can be understood as a special case. In particular, we obtain that a polycategory is a representable polycategory with duals if and only if it is bifibred over the terminal polycategory . Finally, we present a Grothendieck correspondence between bifibrations of polycategories and pseudofunctors into **MAdj**, the (weak) 2-polycategory of multivariable adjunctions. When restricted to bifibrations over **1** we get back the correspondence between *-autonomous categories and Frobenius pseudomonoids in **MAdj** that was recently observed by Shulman.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: ''
 
 tags:
-  - Large Language Models
+  - Category theory
+  - Polycategories
+  - Fibrations
+  - Grothendieck construction
+  - Linear logic
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,36 +48,35 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1571066120300499'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#   focal_point: ''
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+ projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}

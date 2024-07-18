@@ -1,5 +1,6 @@
 ---
 title: Learn Python
+draft: true
 summary: Easily learn Python in 10 minutes!
 date: 2023-10-24
 type: docs
