@@ -1,6 +1,6 @@
 ---
 title: PyTorch
-draft:true
+draft: true
 date: 2023-10-26
 external_link: https://github.com/pytorch/pytorch
 tags:
