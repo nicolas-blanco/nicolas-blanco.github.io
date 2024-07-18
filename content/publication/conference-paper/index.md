@@ -13,7 +13,7 @@ author_notes:
   - ''
   - ''
 
-date: ''
+date: '2020'
 doi: '10.1016/j.entcs.2020.09.003'
 
 # Schedule page publish date (NOT publication's date).
