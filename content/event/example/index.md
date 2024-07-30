@@ -1,28 +1,28 @@
 ---
-title: Example Talk
-draft: true
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+title: Bifibrations of polycategories and classical linear logic
+draft: false
+event: ChoCoLa
+event_url: https://chocola.ens-lyon.fr/events/online-2020-12-03/talks/blanco/
 
-location: Hugo Blox Builder HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: ChoCoLa seminar, ENS Lyon
+#address:
+#  street: 450 Serra Mall
+#  city: Stanford
+#  region: CA
+#  postcode: '94305'
+#  country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: In this talk, we connect four different ways of interpreting classical multiplicative linear logic categorically.
+abstract: 'In this talk we will explore four different ways of interpreting classical multiplicative linear logic categorically: as a *-autonomous category where the connectives are given by structures, as a *-representable polycategory where the connectives are expressed through universal properties, as a bifibred polycategory where the connectives are recovered by fibrational properties and as a Frobenius pseudomonoid internal to a polycategory where the connectives are defined by internal operations. We will relate these approaches through different correspondences. First we will see that *-representable polycategories are unbiased alternatives to the two-tensor polycategories with duals that have been introduced by Cockett and Seely and that has been proven to be equivalent to -autonomous categories. Then we will see that bifibred polycategories generalise those in the sense that a polycategory is *-representable iff it is bifibred over the terminal polycategory. Finally, we will present a polycategorical Grothendieck correspondence between bifibrations of polycategories and pseudofunctors into MAdj, the 2-polycategory of multivariable adjunctions. When restricted to bifibrations over the terminal polycategory we get back the correspondence between *-autonomous categories and Frobenius pseudomonoids in MAdj that was recently observed by Mike Shulman. If time permits we will also look at some refinements of *-autonomous categories by considering bifibred polycategories over a representable polycategory other than the terminal one.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '3 Dec 2020T10:00:00Z'
+date_end: '3 Dec 2020T12:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '30 Jul 2024T17:00:00Z'
 
 authors:
   - admin
@@ -32,19 +32,19 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#  focal_point: Right
 
 #links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+#url_code: 'https://github.com'
+#url_pdf: ''
+#url_slides: 'https://slideshare.net'
+#url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,18 +58,18 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+# projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
 
-Slides can be added in a few ways:
+# Slides can be added in a few ways:
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+# - **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+# Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
