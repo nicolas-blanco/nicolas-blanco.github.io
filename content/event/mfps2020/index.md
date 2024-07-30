@@ -1,10 +1,10 @@
 ---
 title: Bifibrations of polycategories and classical linear logic
 draft: false
-event: ChoCoLa
-event_url: https://chocola.ens-lyon.fr/events/online-2020-12-03/talks/blanco/
+event: MFPS2020
+event_url: https://www.monoidal.net/paris2020/mfps/
 
-location: ChoCoLa seminar, ENS Lyon
+location: online
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -17,9 +17,9 @@ abstract: 'In this talk we will explore four different ways of interpreting clas
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '03 Dec 2020'
+date: '02 Jun 2020'
 time: '10:00'
-date_end: '03 Dec 2020'
+date_end: '02 Jun 2020'
 time_end: '12:00'
 all_day: false
 
@@ -46,7 +46,7 @@ featured: false
 #url_code: 'https://github.com'
 #url_pdf: ''
 #url_slides: 'https://slideshare.net'
-#url_video: 'https://youtube.com'
+url_video: 'https://www.youtube.com/watch?v=nOOx_SlDS9k'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
