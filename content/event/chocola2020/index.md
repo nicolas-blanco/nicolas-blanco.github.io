@@ -17,8 +17,8 @@ abstract: 'In this talk we will explore four different ways of interpreting clas
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '03 Dec 2020T10:00:00Z'
-date_end: '03 Dec 2020T12:00:00Z'
+date: '03 Dec 2020T10:00'
+date_end: '03 Dec 2020T12:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
