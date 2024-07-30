@@ -46,7 +46,7 @@ featured: false
 #url_code: 'https://github.com'
 #url_pdf: ''
 #url_slides: 'https://slideshare.net'
-url_video: 'https://www.youtube.com/watch?v=nOOx_SlDS9k'
+#url_video: 'https://www.youtube.com/watch?v=nOOx_SlDS9k'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
